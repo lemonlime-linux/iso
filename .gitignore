@@ -1,0 +1,11 @@
+# Ignore build artifacts and logs
+/build/
+/output/
+*.iso
+*.img
+*.log
+
+# Editor/OS/filesystem junk
+*~
+.DS_Store
+Thumbs.db
